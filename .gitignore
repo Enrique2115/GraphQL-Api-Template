@@ -1,8 +1,9 @@
 # Ignora archivos del sistema Mac 
 .DS_store
 
-# Ignora la carpeta node_modules
+# Ignora la carpeta node_modules y vscode
 node_modules
+.vscode
 
 # Ignora todos los archivos de texto
 *.txt
